@@ -1,5 +1,3 @@
-layout: defaut
-title: home
 
 ## Welcome to GitHub Pages
 
