@@ -1,3 +1,6 @@
+layout: defaut
+title: home
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/iga0005/my-homepage-20120005/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
